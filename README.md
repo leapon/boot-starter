@@ -2,7 +2,8 @@
 
 A starter project using clojure boot
 
-# example
+# usage
+
 ```
 $ boot test
 Testing bootstart.core
