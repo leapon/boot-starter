@@ -2,7 +2,7 @@
 
 A starter project for clojure project using Boot
 
-# usage
+## Usage
 
 ```
 $ boot test
@@ -25,4 +25,6 @@ $ java -jar target/bootstart-0.1.0-SNAPSHOT-standalone.jar
 Hello, bootstart
 ```
 
-Reference: https://github.com/seancorfield/boot-new
+## Reference
+
+https://github.com/seancorfield/boot-new
