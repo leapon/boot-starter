@@ -3,7 +3,7 @@
 A starter project using clojure boot
 
 # example
-
+```
 $ boot test
 Testing bootstart.core
 Testing bootstart.core-test
@@ -22,5 +22,5 @@ Writing target dir(s)...
 
 $ java -jar target/bootstart-0.1.0-SNAPSHOT-standalone.jar 
 Hello, bootstart
-
+```
 
