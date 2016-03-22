@@ -1,6 +1,6 @@
 # boot-starter
 
-A starter project using clojure boot
+A starter project for clojure project using Boot
 
 # usage
 
